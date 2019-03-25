@@ -1,3 +1,3 @@
-# leaflet-mustache-sidebar
+# Attractions of Guyana
 
-Create a Leaflet map with a basemap and overlay data
+I created this map to with the hope that it would provide the average traveler with a tool that would allow for easier means of researching and arranging tours acrros Guyana. 
